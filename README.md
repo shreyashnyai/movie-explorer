@@ -27,8 +27,8 @@ A full-stack Movie Explorer platform for browsing movies, actors, directors, and
 ## Quick Start (Docker)
 
 ```bash
-git clone <your-repo-url>
-cd MOVIE_PROJECTS
+git clone https://github.com/shreyashnyai/movie-explorer.git
+cd movie-explorer
 docker compose up --build
 ```
 
